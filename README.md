@@ -1,21 +1,12 @@
 <h1>TESTING MODE</h1>
 
 
-<div>
-<img src="https://media0.giphy.com/media/BF3D7cOuAsqis/giphy.gif?cid=ecf05e47yjns11zxjzea8kw88njmp5vj3qnm5nludnibd5em&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> 
-</div>
-
 🚀 **Journeying Through:** Currently diving deep into the freeCodeCamp ocean..<br>
 🌐 **Team Ups:** Open to collaboration! Frontend? Backend? Let's explore both universes.<br>
 📘 **Current Quest:** Harnessing the power of React, but feeling the allure of the backend mysteries.<br>
 🔍 **My Specialty:** Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>
 🌟 **Did You Know?:** They say I'm 'lazy', but I have a knack for getting things done in style.
 
----
-<p align="center">
-  <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47fv7ma8fx1j8rhdb4rv0dyzurqvy4o7eknmqreg0j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
-  <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47ramo0uisuogqwiqm9iutv25yf4bfizegg2jw7tq7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF" width="300"/>
-</p>
 
 # <img src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif?cid=ecf05e47o5vcvygpxdykimkg6a2sqtddsw75yj03eo1qf0zz&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
