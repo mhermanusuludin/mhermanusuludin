@@ -1,4 +1,4 @@
-[![Header](https://cdn.dribbble.com/userupload/10980067/file/original-0c21819e7c29d3453ff024cbb1ec03dd.png?resize=752x "Header")](https://www.creative-tim.com/)
+[![Header](https://cdn.dribbble.com/userupload/10980067/file/original-0c21819e7c29d3453ff024cbb1ec03dd.png?resize=500x "Header")](https://www.creative-tim.com/)
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/mhermanusuludin) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mhermanusuludin)
 
