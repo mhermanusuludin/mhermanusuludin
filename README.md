@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey!%20I'm%20Herman%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey!%20I'm%20MHermanUsuludin%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mhermanusuludin&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/mhermanusuludin?tab=followers">
+    <img src="https://img.shields.io/github/followers/mhermanusuludinE?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   </a>
 </p>
 
@@ -111,7 +111,6 @@ motto: "Build it. Automate it. Scale it. Repeat."
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **📊 Databases**
 
@@ -120,8 +119,6 @@ motto: "Build it. Automate it. Scale it. Repeat."
 
 **🤖 AI & Automation**
 
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F61?style=for-the-badge&logoColor=white)
 
 </details>
@@ -250,21 +247,21 @@ motto: "Build it. Automate it. Scale it. Repeat."
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username to activate these -->
+<!-- Replace mhermanusuludin with your actual GitHub username to activate these -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6F61&currStreakLabel=6AD3F7" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhermanusuludin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhermanusuludin&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6F61&currStreakLabel=6AD3F7" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhermanusuludin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF" alt="Top Languages" width="40%" />
 </p>
 
 <!-- 🐍 Snake eating your contributions! Uncomment when you set up the GitHub Action -->
 <!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mhermanusuludin/mhermanusuludin/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 -->
 
@@ -285,16 +282,13 @@ motto: "Build it. Automate it. Scale it. Repeat."
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mhermanusuludin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/mhermanusuludin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mhermanusuludin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
