@@ -17,9 +17,10 @@
 
 ---
 
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="540" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Muhammad Herman Usuludin
@@ -42,6 +43,7 @@ currently:
 
 motto: "Build it. Break it. Learn it. Repeat."
 ```
+<img align="center" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
 
 <br clear="both">
 
@@ -51,23 +53,23 @@ motto: "Build it. Break it. Learn it. Repeat."
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80"><br>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amxldjBubWhjZXp6ZDN5dTl3enpmbHFlNzBibG1zMDEzMmUzOW50cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qdf1QyvxipVh6/giphy.gif" width="120"><br>
       <b>Home Labs</b><br>
       <sub>Building server setups from beginner to pro tier</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCJ8dO8dW/giphy.gif" width="80"><br>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VtdDd0ZzRydXdmZGV0NWg2OTA3bzk0dWdqd29pdHhuZGwzaHJqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KX5nwoDX97AtPvKBF6/giphy.gif" width="120"><br>
       <b>Networking</b><br>
       <sub>VLANs, VPNs, Omada controllers & ISP configs</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/IcGkqdUmYLFGE/giphy.gif" width="80"><br>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmhobHhoNTMwZjBrMTd4OG1yN2d0em5weTl5YXd3N2lneW11dnNmdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V7nPgYz8zgjuzRWWLb/giphy.gif" width="120"><br>
       <b>Automation</b><br>
       <sub>AI agents & workflow orchestration</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/JrXas5ecb4FLkGYVwW/giphy.gif" width="80"><br>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXJiaThyY2ptZTk1c29mZnlzc3cyaW55bW85OGZmZ2p4dTg1eHh5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif" width="120"><br>
       <b>Self-Hosting</b><br>
       <sub>Running my own apps & services at home</sub>
     </td>
@@ -75,6 +77,37 @@ motto: "Build it. Break it. Learn it. Repeat."
 </table>
 
 ---
+
+## 📊 Statistics
+
+<!-- Use correct markdown and remove line breaks from URLs -->
+<div align="center">
+  <a href="https://github.com/mhermanusuludin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhermanusuludin&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhermanusuludin&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhermanusuludin&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhermanusuludin&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhermanusuludin&theme=2077" height="180em" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ⚡ Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhermanusuludin&theme=react-dark" />
+</div>
+
+---
+---
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/mhermanusuludin)
+
+---
+
 
 ## 🧰 My Toolbox
 
@@ -263,6 +296,11 @@ motto: "Build it. Break it. Learn it. Repeat."
 </p>
 
 ---
+<p align="center">
+  <a href="https://buymeacoffee.com/mhermanusub" title="Buy Me a Coffee">
+    <img alt="Buy Me a Coffee" src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif"  />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42" width="100%" />
@@ -271,3 +309,5 @@ motto: "Build it. Break it. Learn it. Repeat."
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%80;Build+things.+Break+things.+Learn+things.;See+you+in+the+terminal+%F0%9F%96%A5%EF%B8%8F" alt="Footer Typing SVG" />
 </p>
+
+
