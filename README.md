@@ -24,8 +24,8 @@
 ```yaml
 name: Muhammad Herman Usuludin
 located_in: Planet Earth 🌍
-job: Senior SQA Engineer @ COHU
-education: BSc IT @ UNITAR (started Jan 2025)
+job: Senior SQA Engineer
+education: BSc IT 
 
 hobbies:
   - 🖥️ Building home servers
@@ -47,7 +47,7 @@ motto: "Build it. Break it. Learn it. Repeat."
 
 ---
 
-## 🏠 What I Do for Fun (yes, servers are fun)
+## 🏠 What I Do for Fun
 
 <table>
   <tr>
@@ -78,51 +78,10 @@ motto: "Build it. Break it. Learn it. Repeat."
 
 ## 🧰 My Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,nginx,git,github,vscode,ansible,postgres,sqlite&perline=7&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,bash,docker,git,github,vscode,&perline=10&theme=dark" />
 </p>
 
-<details>
-<summary>📂 Click to see the full breakdown!</summary>
-
-<br>
-
-**🐧 Operating Systems & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
-**🌐 Networking & Virtualization**
-
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![TP-Link Omada](https://img.shields.io/badge/TP--Link_Omada-4ACBD6?style=for-the-badge&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-0078D4?style=for-the-badge&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC_Containers-333333?style=for-the-badge&logoColor=white)
-![Samba AD](https://img.shields.io/badge/Samba_AD-6B2D5B?style=for-the-badge&logoColor=white)
-
-**🛠️ Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**📊 Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**🤖 Automation**
-
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F61?style=for-the-badge&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-</details>
 
 ---
 
@@ -198,16 +157,18 @@ motto: "Build it. Break it. Learn it. Repeat."
 ## 💼 The Day Job & Background
 
 ```
-🏢  Senior SQA Engineer @ COHU
+🏢  Senior SQA Engineer
      └── QA strategy, system validation, infra-level testing
 
-🎓  BSc Information Technology @ UNITAR (Jan 2025 — present)
+    Part-Time Study
+🎓  BSc Information Technology (Data Analystics) (Jan 2025 — present)
 
-🏠  Full-stack Infrastructure Builder (my happy place)
+🏠  Full-stack Infrastructure Builder
      ├── Proxmox clusters, LXC, VMs
      ├── Self-hosted apps & services
      ├── Samba AD, reverse proxies, VPNs
      └── Step-by-step deployment guides
+     └── Networking
 ```
 
 ---
@@ -288,19 +249,19 @@ motto: "Build it. Break it. Learn it. Repeat."
   <a href="https://linkedin.com/in/mhermanusuludin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
+  <a href="https://facebook.com/mhermanusuludin">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/mhermanusuludin">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE">
+  <a href="https://x.com/mhermanusuludin">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://threads.net/@YOUR_THREADS">
+  <a href="https://threads.net/@mhermanusuludin">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@YOUR_TIKTOK">
+  <a href="https://tiktok.com/@mhermanusuludin">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="mailto:mhermanusuludin@gmail.com">
