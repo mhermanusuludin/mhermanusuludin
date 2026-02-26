@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%A7+Infrastructure+Tinkerer+%26+Home+Lab+Nerd;%F0%9F%A4%96+Automation+Junkie+%7C+AI+Agent+Builder;%F0%9F%96%A5%EF%B8%8F+Proxmox+%7C+Linux+%7C+Self-Hosted+Everything;%F0%9F%8E%93+IT+Student+by+Day%2C+Server+Builder+by+Night;%F0%9F%9A%80+Turning+Hobbies+into+Businesses!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%A7+Infrastructure+Tinkerer+%26+Home+Lab+Nerd;%F0%9F%A4%96+Automation+Junkie+%7C+AI+Agent+Explorer;%F0%9F%96%A5%EF%B8%8F+Proxmox+%7C+Linux+%7C+Self-Hosted+Everything;%F0%9F%8E%93+IT+Student+by+Day%2C+Server+Builder+by+Night;%F0%9F%8F%A0+Home+Labs+are+my+Happy+Place!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,16 +31,16 @@ hobbies:
   - 🖥️ Building home servers
   - 🌐 Networking & self-hosting everything
   - 🤖 Automating stuff with AI agents
-  - 📈 Trading bots & multi-agent systems
+  - 📝 Writing guides so others can build too
   - 📚 Learning something new every day
 
 currently:
   - Tinkering with Proxmox clusters
   - Automating workflows with OpenClaw
-  - Building trading infra with MT5 bots
-  - Writing guides so others can build too
+  - Setting up VLANs & VPNs for fun
+  - Documenting everything I build
 
-motto: "Build it. Automate it. Scale it. Repeat."
+motto: "Build it. Break it. Learn it. Repeat."
 ```
 
 <br clear="both">
@@ -64,12 +64,12 @@ motto: "Build it. Automate it. Scale it. Repeat."
     <td align="center" width="200">
       <img src="https://media.giphy.com/media/IcGkqdUmYLFGE/giphy.gif" width="80"><br>
       <b>Automation</b><br>
-      <sub>AI agents, bots & workflow orchestration</sub>
+      <sub>AI agents & workflow orchestration</sub>
     </td>
     <td align="center" width="200">
       <img src="https://media.giphy.com/media/JrXas5ecb4FLkGYVwW/giphy.gif" width="80"><br>
-      <b>Trading Bots</b><br>
-      <sub>MT5 + Telegram multi-agent systems</sub>
+      <b>Self-Hosting</b><br>
+      <sub>Running my own apps & services at home</sub>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ motto: "Build it. Automate it. Scale it. Repeat."
 ## 🧰 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,nginx,git,github,vscode,ansible,postgres,sqlite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,nginx,git,github,vscode,ansible,postgres,sqlite&perline=7&theme=dark" />
 </p>
 
 <details>
@@ -117,22 +117,23 @@ motto: "Build it. Automate it. Scale it. Repeat."
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**🤖 AI & Automation**
+**🤖 Automation**
 
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F61?style=for-the-badge&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Hobby Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏠 Home Server Solutions</h3>
+      <h3 align="center">🏠 Home Server Setups</h3>
       <p align="center">
-        Preconfigured home server packages — from beginner to pro tier — so anyone can run enterprise-grade infra at home.
+        Tinkering with home server configs — from beginner to pro tier — because running your own infra is just <em>fun</em>.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
@@ -143,7 +144,7 @@ motto: "Build it. Automate it. Scale it. Repeat."
     <td width="50%">
       <h3 align="center">🔐 Centralized Home Auth</h3>
       <p align="center">
-        Enterprise-style SSO for your home network using Samba Active Directory. Yes, for your <em>home</em>.
+        Enterprise-style SSO for your home network using Samba Active Directory. Yes, for your <em>home</em>. Why not?
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Samba_AD-6B2D5B?style=flat-square&logoColor=white" />
@@ -154,25 +155,25 @@ motto: "Build it. Automate it. Scale it. Repeat."
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📈 AI Trading Infrastructure</h3>
-      <p align="center">
-        Multi-agent trading system with MT5, Telegram bots, and AI-driven execution. Trades while I sleep!
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MetaTrader_5-4A76A8?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">🤖 OpenClaw Workflows</h3>
       <p align="center">
-        Automation pipelines using AI agents for business processes and infrastructure management. Set and forget!
+        Playing with AI agents and automation pipelines to orchestrate tasks and manage my home infra. Set and forget!
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/OpenClaw-FF6F61?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📖 Infra Guides & Docs</h3>
+      <p align="center">
+        Writing step-by-step guides on networking, servers & self-hosting so others can build their own setups too.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -184,12 +185,11 @@ motto: "Build it. Automate it. Scale it. Repeat."
 
 <img align="right" alt="Working" width="250" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
-- 🖥️ Building scalable **home server & networking solutions** for consumers
-- 🤖 Going deep into **AI agent orchestration** with OpenClaw
-- 📈 Refining **trading bots** — MT5 + Telegram + multi-agent magic
-- 📖 Creating **education-first content** on networking, servers & ISP setups
+- 🖥️ Tinkering with **home server & networking setups** — always upgrading
+- 🤖 Exploring **AI agent orchestration** with OpenClaw
+- 📖 Writing **guides & tutorials** on networking, servers & ISP setups
 - 🎓 Studying for my **BSc in IT** at UNITAR
-- 🌍 Long-term: building a **global infrastructure & automation business**
+- 🌐 Learning new **self-hosting tools** every weekend
 
 <br clear="both">
 
@@ -221,23 +221,23 @@ motto: "Build it. Automate it. Scale it. Repeat."
       <ul>
         <li>Advanced multi-agent AI systems</li>
         <li>Cloud-native infrastructure patterns</li>
-        <li>Business strategy for productized services</li>
+        <li>New self-hosting tools & platforms</li>
       </ul>
     </td>
     <td>
       <h4>🎯 Short-Term</h4>
       <ul>
-        <li>Launch home server product line</li>
-        <li>Grow networking content library</li>
+        <li>Level up my home lab setup</li>
+        <li>Grow my networking guides library</li>
         <li>Crush university milestones</li>
       </ul>
     </td>
     <td>
       <h4>🚀 Long-Term</h4>
       <ul>
-        <li>Build a global infra & automation biz</li>
-        <li>Create systems that generate wealth</li>
-        <li>Become the go-to for home infrastructure</li>
+        <li>Master everything about home infrastructure</li>
+        <li>Help others build their own home labs</li>
+        <li>Keep learning and building cool stuff</li>
       </ul>
     </td>
   </tr>
@@ -287,6 +287,21 @@ motto: "Build it. Automate it. Scale it. Repeat."
   </a>
   <a href="https://linkedin.com/in/mhermanusuludin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/YOUR_X_HANDLE">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://threads.net/@YOUR_THREADS">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@YOUR_TIKTOK">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="mailto:mhermanusuludin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
